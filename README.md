@@ -15,7 +15,7 @@ NewsNow is a personalized news app that brings you the latest news from around t
 * Integration with social media for sharing articles
 
 ## Technical Requirements:
-* Android SDK version: 21+
+* Android SDK version
 * Programming languages: Kotlin + Jetpack Compose
 * API integration for news data
 * News API dependency
